@@ -1,0 +1,143 @@
+{
+  "settings": {
+    "name": "Daniel Weber",
+    "title": "Aspiring Liberal Arts Student",
+    "location": "United States",
+    "summary": "Motivated and passionate student with strong academic background, leadership experience, and commitment to community service.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:wberr_danil_26@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Interpersonal Communication Skills",
+          "Love of Learning",
+          "Analytical Thinking Skills",
+          "Complex Problem Solving",
+          "Photography Skills",
+          "Time Management Skills"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "McCann Agency, New York",
+          "position": "HR Receptionist",
+          "period": "August 2016 - September 2019",
+          "description": "Worked as an energetic receptionist, using strong administrative skills to enhance company performance. Served as a main point of contact for the HR department. Wrote reports from dictation, made copies, sent faxes, made phone calls, and researched assignments for superiors. Organized and dispersed incoming mail to correct departments and employees. Reported to superiors on a weekly basis. Approached each work day with enthusiasm and a wonderful work ethic."
+        },
+        {
+          "company": "Little Cat's Day Camp, White Plains",
+          "position": "Head Counselor",
+          "period": "July 2013 - July 2017",
+          "description": "Worked as a head counselor for a summer camp serving 280+ children. Organized and led group trips, remaining responsible for 20+ children at a time. Greeted families and campers with a friendly spirit and a helpful attitude. Handled disputes between campers with professionalism and sensitivity. Remained knowledgeable about the allergies and medical needs of campers, seeking medical attention whenever necessary. Served as a leader, and a confidante to countless campers. Promoted fun and learning each and every day."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": []
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Greenwich Academy, Greenwich",
+          "degree": "High School Diploma",
+          "period": "August 2012 - May 2016"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Graduated with High Honors",
+          "description": "Achieved high honors during high school."
+        },
+        {
+          "title": "Member of the Swim Team",
+          "description": "Participated as a member of the school's swim team."
+        },
+        {
+          "title": "Member of the Softball team",
+          "description": "Participated as a member of the school's softball team, contributing to a 2017 Championship."
+        },
+        {
+          "title": "Staff Writer of the Sacred Heart Newspaper",
+          "description": "Contributed as a staff writer for the school newspaper."
+        },
+        {
+          "title": "Member of the Photography Club",
+          "description": "Participated as a member of the photography club."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "wberr_danil_26@gmail.com",
+      "phone": "917-603-2177",
+      "location": "United States"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Achievements",
+        "url": "#achievements"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Daniel Weber. All rights reserved."
+  }
+}
